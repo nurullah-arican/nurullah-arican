@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💻 Nurullah Arıçan's GitHub Profile
 
-<!--
-**nurullah-arican/nurullah-arican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Nurullah Arıçan, a passionate developer dedicated to advancing my skills in software development and creating innovative projects. Below is an overview of my skills and areas of interest.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- **Languages:** C#, C++
+- **Technologies:** .NET, WPF, Qt, Arduino, ESP32/ESP8266
+- **Databases:** SQL Server, Firebase
+- **Tools:** Git, Visual Studio, GitHub, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Experience
+I have experience in developing various projects in C# and C++. My background covers application development, user interface (UI) design, and systems programming. Additionally, I work with data structures and algorithms in C++ to develop efficient solutions in my projects.
+
+## 🎯 Areas of Interest
+- **Artificial Intelligence:** Object recognition, autonomous systems, SLAM algorithms
+- **Embedded Systems:** Project development with Arduino and ESP series microcontrollers
+- **Mobile Application Development:** Smart devices and IoT-based projects
+- **Game Development:** Working on game projects using Unity and C#
+- **UI Design:** Creating modern and user-friendly interfaces with WPF and Qt
+
+## 📈 GitHub Projects
+The projects shared on this page primarily involve the technologies mentioned above. I aim to share projects that can inspire both beginners and advanced users.
+
+## 📫 Contact Me
+Feel free to leave feedback on my projects by opening an issue on GitHub.
+
+I'm always open to new projects and collaborations! Don’t hesitate to reach out or just say hello!
